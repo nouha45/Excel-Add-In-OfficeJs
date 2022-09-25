@@ -1,0 +1,163 @@
+
+.tit{
+    display: inline-block;
+    color:brown;
+    font-family: "Sofia", sans-serif;
+    position: fixed;
+    top: -15px;
+    font-size: xx-large;
+    
+    padding-top: 0px;
+    
+
+    
+}
+span{
+    color:burlywood
+}
+.cont{
+   
+    display: inline-block;
+    position: fixed;
+    right: 10px;
+    top: 30px;
+    
+    
+}
+a:active{
+    color:brown;
+}
+a:hover{
+    color: orangered;
+}
+
+a{
+    color: black;
+    font-family:"Silkscreen", sans-serif;
+    font-size: larger;
+    text-decoration: none;
+    margin-right: 50px;
+    letter-spacing: 0.0002spx;
+    top:auto;
+    font-size: 20px;
+    
+    
+}
+.image{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 40%;
+    left: 26%;
+
+    
+
+}
+img{
+    width: 30px;
+    height: 30px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    opacity: 0.3;
+    
+    
+    
+}
+img:hover{
+    opacity: 0.8;
+}
+.but{
+    cursor: pointer;
+    color: #fff;
+    font-size: 16px;
+    padding: 12px 35px;
+    border-radius: 50px;
+    display: inline-block;
+    border: 0;
+    outline: 0;
+    margin-top: 10px;
+    box-shadow: 0px 4px 20px 0px #050608a6;
+    background-image: linear-gradient(135deg, #1F7DCF 10%, #7EC0F9 100%);
+    
+    
+
+}
+.but:hover{
+    color:#fff;
+    background-image: linear-gradient(135deg, #7EC0F9 10%, #1F7DCF 100%);
+    cursor: pointer;
+}
+.def{
+    display: inline-block;
+    width: 100%;
+    margin: auto auto;
+}
+.para{
+    width: 600px;
+    height: 100%;
+    text-align: center;
+}
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+
+.contact{
+    background-color:darkgray;
+    position: absolute;
+    top: 95%;
+    width: 100%;
+    height: 50%;
+    
+
+}
+.info{
+    position: absolute;
+    background-color: white;
+    display: inline-block;
+    width: 22%;
+    height: 60%;
+    margin-left: 200px;
+    margin-top: 100px;
+   
+}
+.inf{
+    position:absolute;
+    background-color: white;
+    display: inline-block;
+    width: 22%;
+    height: 60%;
+    margin-top: 100px;
+    margin-left: 600px;
+    
+    
+   
+}
+.infor{
+    position:absolute;
+    background-color: white;
+    display: inline-block;
+    width: 22%;
+    height: 60%;
+    margin-top: 100px;
+    margin-left: 1000px;
+    
+   
+}
+.main{
+    text-align: center;
+    border-bottom: 4px solid;
+    padding-bottom: 10px;
+    border-color: darkslateblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+.det{
+    text-align: center;
+    color:darkblue;
+    font-size: large;
+}
